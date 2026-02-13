@@ -39,7 +39,7 @@ Clean, deployment-ready Shiny app
 ![Insights](screenshots/insights.png)
 
 ### Executive summary Tab
-![Executive summary](screenshots/Executive summary.png)
+![Executivesummary](screenshots/Executive summary.png)
 
 ---
 
