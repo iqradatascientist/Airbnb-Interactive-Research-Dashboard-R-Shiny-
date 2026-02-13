@@ -30,13 +30,16 @@ Clean, deployment-ready Shiny app
 ## Dashboard Screenshots
 
 ### Overview Tab
-![Overview](<img width="1363" height="508" alt="image" src="https://github.com/user-attachments/assets/6a1879e5-d5fe-4c10-96c2-421e0d3bcf94" />)
+![Overview](screenshots/overview.png)
 
-### Analysis Tab
-![Analysis](screenshots/analysis.png)
+### Details Tab
+![Insights](screenshots/details.png)
 
-### Trends Tab
-![Trends](screenshots/trends.png)
+### Insights Tab
+![Insights](screenshots/insights.png)
+
+### Executive summary Tab
+![Executive summary](screenshots/Executive summary.png)
 
 ---
 
