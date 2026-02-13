@@ -27,6 +27,19 @@ This project demonstrates end-to-end data analytics workflow — from data clean
 
 ---
 
+## Dashboard Screenshots
+
+### Overview Tab
+![Overview](<img width="1363" height="508" alt="image" src="https://github.com/user-attachments/assets/6a1879e5-d5fe-4c10-96c2-421e0d3bcf94" />)
+
+### Analysis Tab
+![Analysis](screenshots/analysis.png)
+
+### Trends Tab
+![Trends](screenshots/trends.png)
+
+---
+
 ## Key Insights (Sample)
 
 - Average listing prices vary significantly across neighborhoods  
