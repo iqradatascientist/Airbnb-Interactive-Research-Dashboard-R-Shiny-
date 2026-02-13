@@ -19,11 +19,11 @@ This project demonstrates end-to-end data analytics workflow — from data clean
 
 ## Features
 
-✔ Interactive filters (neighborhood, price range)  
-✔ KPI metrics (average price, total listings, reviews)  
-✔ Dynamic plots with Plotly  
-✔ Executive Summary with business insights  
-✔ Clean, deployment-ready Shiny app  
+Interactive filters (neighborhood, price range)  
+KPI metrics (average price, total listings, reviews)  
+Dynamic plots with Plotly  
+Executive Summary with business insights  
+Clean, deployment-ready Shiny app  
 
 ---
 
